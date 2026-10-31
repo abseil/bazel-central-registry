@@ -373,9 +373,9 @@ fastmcp==3.4.2 \
     --hash=sha256:b468722946fc467c3796a6572f7a14d93d48c014cf8fea12910245220cbbe4e1 \
     --hash=sha256:c87a62b029f0c5400ada85f683629345d2466c39169f0cb853e487b2f7308c08
     # via -r tools/requirements.in
-fastmcp-slim[client,server]==3.4.2 \
-    --hash=sha256:290646e0955a516235a317151034559aa48336cb843d3f006131aedad8759bb4 \
-    --hash=sha256:bdc72492212681ca502755fa8acc0457f559295da1fc3dfc0599adc1c04b82f3
+fastmcp-slim[client,server]==3.4.10 \
+    --hash=sha256:d80ae606ead8dfefa1f21b009929824210ea87eb4b422653a1be8dca61797ccd \
+    --hash=sha256:f388941db8bdf38999e6c9d2536c4cd59a6571908d851cee2d10ee59f4e53532
     # via fastmcp
 griffelib==2.0.2 \
     --hash=sha256:3cf20b3bc470e83763ffbf236e0076b1211bac1bc67de13daf494640f2de707e \
